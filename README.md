@@ -4,7 +4,7 @@
 
 node index.js --action="list"
 
-https://ibb.co/mRdV5LF
+https://ibb.co/3z6xvDJ
 
 # Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
 
