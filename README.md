@@ -10,16 +10,16 @@ node index.js --action="list"
 
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
 
-https://ibb.co/cJRj1Lv
+![# Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.](./images/hw1/hw2.JPG)
 
 # Додаємо контакт та виводимо в консоль об'єкт новоствореного контакту
 
 node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22
 
-https://ibb.co/K2QxxKd
+![# Додаємо контакт та виводимо в консоль об'єкт новоствореного контакту.](./images/hw1/hw3.JPG)
 
 # Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
 
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 
-https://ibb.co/Q6XLYjB
+![# Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.](./images/hw1/hw4.JPG)
